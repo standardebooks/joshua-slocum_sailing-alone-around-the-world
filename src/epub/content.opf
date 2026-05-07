@@ -44,12 +44,12 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6317</dc:source>
-		<dc:source>https://archive.org/details/sailingalonearou0000josh_a4i7</dc:source>
+		<dc:source>https://archive.org/details/bwb_T5-CWQ-188</dc:source>
 		<meta property="se:production-notes">Not all original illustrations used in this production.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sailing_Alone_Around_the_World</meta>
-		<meta property="se:url.vcs.github">https://github.com/PUBLISHER/joshua-slocum_sailing-alone-around-the-world</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/joshua-slocum_sailing-alone-around-the-world</meta>
 		<dc:creator id="author">Joshua Slocum</dc:creator>
 		<meta property="file-as" refines="#author">Slocum, Joshua</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joshua_Slocum</meta>

@@ -125,7 +125,7 @@ td:nth-child(2){
 }
 
 td.total{
-	border-top: 1px solid black;
+	border-top: 1px solid;
 }
 
 td:first-of-type{

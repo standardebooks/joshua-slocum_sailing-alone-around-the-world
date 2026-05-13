@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</dc:identifier>
-		<dc:date>1900⁠–⁠01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900⁠–⁠01-01T00:00:00Z</meta>
+		<dc:date>2026-05-13T14:50:37Z</dc:date>
+		<meta property="dcterms:modified">2026-05-13T14:50:37Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,17 +37,18 @@
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">An account of the first solo sailing voyage around the world.</dc:description>
+		<dc:description id="description">A sailor gives his account how he completed the first solo sailing voyage around the world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joshua-slocum"&gt;Joshua Slocum’s&lt;/a&gt; first solo circumnavigation of the earth in his thirty-six foot sailboat &lt;i&gt;Spray&lt;/i&gt; is still considered one of the greatest nautical feats of all time. And this, his first-person account of the voyage, is one of the all-time classics of adventure literature. During his three-year, fourty-six thousand mile journey, Slocum faces trials you might expect—such as storms, monster waves, dangerous shoals, and powerful currents. But he also has to contend with everything from pirates armed with bows and arrows to a stowaway goat to villagers who are convinced he is the Antichrist.&lt;/p&gt;
+			&lt;p&gt;In 1898 &lt;a href="https://standardebooks.org/ebooks/joshua-slocum"&gt;Joshua Slocum&lt;/a&gt; completed the first solo circumnavigation of the earth. His voyage in his thirty-six foot sailboat &lt;i&gt;Spray&lt;/i&gt; is still considered to be one of the greatest nautical feats of all time—and this, his first-person account of the voyage, is one of the all-time classics of adventure literature.&lt;/p&gt;
+			&lt;p&gt;During his three-year, 46,000 mile journey, Slocum faces the kinds of trials you might expect—storms, monster waves, dangerous shoals, powerful currents, and more. But he also has to contend with everything from pirates armed with bows and arrows, to a stowaway goat, to villagers who are convinced he’s the Antichrist.&lt;/p&gt;
 			&lt;p&gt;Slocum’s prose wonderfully combines details of his day-to-day life at sea with meditations on the beauties and dangers of the ocean, all with a touch of a 19th-century New Englander’s sense of humor. It’s a tale that has charmed sailors and landlubbers alike for more than a century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6317</dc:source>
 		<dc:source>https://archive.org/details/bwb_T5-CWQ-188</dc:source>
-		<meta property="se:production-notes">Not all original illustrations used in this production.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">Illustrations which are merely decorative have been removed.</meta>
+		<meta property="se:word-count">68722</meta>
+		<meta property="se:reading-ease.flesch">73.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sailing_Alone_Around_the_World</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joshua-slocum_sailing-alone-around-the-world</meta>
 		<dc:creator id="author">Joshua Slocum</dc:creator>
@@ -85,6 +86,7 @@
 		<meta property="role" refines="#markup-1" scheme="marc:relators">mrk</meta>
 		<dc:contributor id="producer-1">Chris Spurgeon</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Spurgeon, Chris</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.spurgeonworld.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
@@ -93,6 +95,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

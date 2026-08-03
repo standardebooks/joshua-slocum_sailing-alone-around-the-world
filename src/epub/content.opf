@@ -47,7 +47,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6317</dc:source>
 		<dc:source>https://archive.org/details/bwb_T5-CWQ-188</dc:source>
-		<meta property="schema:wordCount">68722</meta>
+		<meta property="schema:wordCount">68723</meta>
 		<meta property="schema:educationalLevel">73.81</meta>
 		<link href="https://en.wikipedia.org/wiki/Sailing_Alone_Around_the_World" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>

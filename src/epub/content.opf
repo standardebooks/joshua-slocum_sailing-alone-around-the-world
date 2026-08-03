@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</dc:identifier>
 		<dc:date>2026-05-13T14:50:37Z</dc:date>
@@ -38,12 +38,12 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:description id="description">A sailor gives his account how he completed the first solo sailing voyage around the world.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A sailor gives his account how he completed the first solo sailing voyage around the world.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In 1898 &lt;a href="https://standardebooks.org/ebooks/joshua-slocum"&gt;Joshua Slocum&lt;/a&gt; completed the first solo circumnavigation of the earth. His voyage in his thirty-six foot sailboat &lt;i&gt;Spray&lt;/i&gt; is still considered to be one of the greatest nautical feats of all time—and this, his first-person account of the voyage, is one of the all-time classics of adventure literature.&lt;/p&gt;
 			&lt;p&gt;During his three-year, 46,000 mile journey, Slocum faces the kinds of trials you might expect—storms, monster waves, dangerous shoals, powerful currents, and more. But he also has to contend with everything from pirates armed with bows and arrows, to a stowaway goat, to villagers who are convinced he’s the Antichrist.&lt;/p&gt;
 			&lt;p&gt;Slocum’s prose wonderfully combines details of his day-to-day life at sea with meditations on the beauties and dangers of the ocean, all with a touch of a 19th-century New Englander’s sense of humor. It’s a tale that has charmed sailors and landlubbers alike for more than a century.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6317</dc:source>
 		<dc:source>https://archive.org/details/bwb_T5-CWQ-188</dc:source>

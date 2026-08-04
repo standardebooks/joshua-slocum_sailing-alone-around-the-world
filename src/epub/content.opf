@@ -38,7 +38,7 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>A sailor gives his account how he completed the first solo sailing voyage around the world.</dc:abstract>
+		<meta property="schema:abstract">A sailor gives his account how he completed the first solo sailing voyage around the world.</meta>
 		<dc:description>
 			&lt;p&gt;In 1898 &lt;a href="https://standardebooks.org/ebooks/joshua-slocum"&gt;Joshua Slocum&lt;/a&gt; completed the first solo circumnavigation of the earth. His voyage in his thirty-six foot sailboat &lt;i&gt;Spray&lt;/i&gt; is still considered to be one of the greatest nautical feats of all time—and this, his first-person account of the voyage, is one of the all-time classics of adventure literature.&lt;/p&gt;
 			&lt;p&gt;During his three-year, 46,000 mile journey, Slocum faces the kinds of trials you might expect—storms, monster waves, dangerous shoals, powerful currents, and more. But he also has to contend with everything from pirates armed with bows and arrows, to a stowaway goat, to villagers who are convinced he’s the Antichrist.&lt;/p&gt;

@@ -71,6 +71,7 @@
 		<link href="https://en.wikipedia.org/wiki/Charles_Mower" refines="#illustrator-3" rel="schema:sameAs"/>
 		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
 		<meta property="file-as" refines="#artist">Courbet, Gustave</meta>
+		<meta property="schema:alternateName" refines="#artist">Jean Désiré Gustave Courbet</meta>
 		<link href="https://en.wikipedia.org/wiki/Gustave_Courbet" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80057228.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
